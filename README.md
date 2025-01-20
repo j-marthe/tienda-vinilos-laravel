@@ -13,7 +13,7 @@ Un proyecto en Laravel de un backend de un sitio web con autenticación y endpoi
 ## 📦 Instalación
 1. Clona el repositorio:
    ```
-   git clone https://github.com/TU_USUARIO/tienda-vinilos-laravel.git
+   git clone https://github.com/j-marthe/tienda-vinilos-laravel.git
    ```
 2. Instala dependencias: `composer install`
 
